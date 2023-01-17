@@ -1,0 +1,15 @@
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\bin\Debug\net6.0\ExercicioReflection.exe
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\bin\Debug\net6.0\ExercicioReflection.deps.json
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\bin\Debug\net6.0\ExercicioReflection.runtimeconfig.json
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\bin\Debug\net6.0\ExercicioReflection.dll
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\bin\Debug\net6.0\ExercicioReflection.pdb
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.csproj.AssemblyReference.cache
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.AssemblyInfoInputs.cache
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.AssemblyInfo.cs
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.csproj.CoreCompileInputs.cache
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.dll
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\refint\ExercicioReflection.dll
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.pdb
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ExercicioReflection.genruntimeconfig.cache
+C:\workspace\C#\ExercicioReflection\ExercicioReflection\obj\Debug\net6.0\ref\ExercicioReflection.dll
